@@ -1,16 +1,14 @@
 # clima
 
-A new Flutter project.
+Weather App project
+
+#API
+https://openweathermap.org/
+
+![clima-demo-min](https://user-images.githubusercontent.com/18183645/232248882-b69080ca-dbb3-4692-a04f-59f642d7be8d.gif)
+
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
